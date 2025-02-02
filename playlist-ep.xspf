@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Rossoneri EP</title>
+  <trackList>
+    <track>
+      <location>clips/TooOldToDieYoung_EPCLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Too Old To Die Young [clip 1]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/TooOldToDieYoung_EPCLIP2.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Too Old To Die Young [clip 2]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/WalkingAfterLove_EPCLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Walking After Love [clip]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/GeorgeWhite'sFavourite_EPCLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>George White's Favourite [clip 1]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/GeorgeWhite'sFavourite_EPCLIP2.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>George White's Favourite [clip 2]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/LastNightICried_EPCLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Last Night I Cried [clip 1]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/LastNightICried_EPCLIP2.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Last Night I Cried [clip 2]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/BuenosAires_EPCLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>On The Streets Of Buenos Aires [clip 1]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/BuenosAires_EPCLIP2.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>On The Streets Of Buenos Aires [clip 2]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/GiveItUpAgainTomorrow_EPCLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Give It Up Again Tomorrow [clip]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+  </trackList>
+</playlist>

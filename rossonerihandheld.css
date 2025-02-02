@@ -1,0 +1,73 @@
+html {
+}
+
+body {
+	background-color: #DFE6EC;
+	color: #000;
+	font-family: "Trebuchet MS", Verdance, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#jump {
+}
+
+#handheldHeader img {
+	margin: 0;
+	padding: 2px;
+}
+#navtop {
+	display: none;
+}
+.nav1 em {
+	font-style: normal;
+}
+#navbottom {
+}
+
+#pagenav {
+	display: none;
+}
+
+
+#middle {
+}
+#content {
+}
+
+#header {
+	display: none;
+}
+
+#printHeader {
+}
+#printHeader img {
+	margin: 0;
+	padding: 2px;
+}
+
+.tonav3, .toTop {
+	text-align: right;
+}
+.tonav3 a, .toTop a {
+	font-size: smaller;
+	color: #44536A;
+}
+	
+#footer {
+	text-align: center;
+}
+
+h1 { font-weight: bold; color: #9C4434;}
+h2 { font-weight: bold; color: #50627d;}
+h3 { font-weight: bold; color: #9C4434;}
+h1, h2, h3 {
+}
+
+a,a:visited {
+}
+
+a:hover,a:visited:hover {
+}
+
+.label {font-weight: bold; color: #9C4434;}
+
+.hidden {display: none; }

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Rossoneri Archive</title>
+  <trackList>
+    <track>
+      <location>clips/interview_parlour_2005-11-14_low.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Intervew Summary, 14/11/05</title>
+      <creator>BBC GMR 'The Parlour'</creator>
+    </track>
+    <track>
+      <location>clips/GalwayFarmer_CLIP.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>The Galway Farmer [clip]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/GalwayShawl_CLIP.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>The Galway Shawl [clip]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/WalkingAfterLove_CLIP1.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Walking After Love [2005] [clip 1]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/WalkingAfterLove_CLIP2.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Walking After Love [2005] [clip 2]</title>
+      <creator>The Rossoneri</creator>
+    </track>
+  </trackList>
+</playlist>

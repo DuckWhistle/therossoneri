@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+<title>The Rossoneri - Clips</title>
+<link rel="stylesheet" type="text/css" href="rossoneri.css"/>
+<link rel="shortcut icon" href="favicon.gif"/>
+<link rel="next" href="fun.html" type="text/html"/>
+<link rel="prev" href="photos-2006-2.html" type="text/html"/>
+<meta name="keywords" content="rossoneri, music, acoustic, irish, folk, manchester, indie, pogues, oasis, rob, phil, jenny, city, bodhran, tin, low, whistle, violin, fiddle, guitar"/>
+<meta name="description" content="Website for the band The Rossoneri, acoustic indie / Irish folk"/>
+
+
+<script language="JavaScript">
+<!--
+
+function writeWMPcode(songname, clipnum, filename) {
+codetext = "<p>\n<span class='label'>" + songname + "</span> clip " + clipnum + "<br/>\n";
+codetext += "<object id='buenosAires1' width='250' height='65'\n";
+codetext += "        classid='clsid:6BF52A52-394A-11d3-b153-00C04F79FAA6'>\n";
+codetext += "  <param name='URL' value='" + filename + "'/>\n";
+codetext += "  <param name='autoStart' value='false'/>\n";
+codetext += "  <param name='playCount' value='1'/>\n";
+codetext += "  Did not work! <a href='" + filename + "'>Download MP3</a> instead.\n";
+codetext += "</object>\n</p>\n";
+return codetext;
+}
+
+function popupWMP(title) {
+// START OF POPUP HTML
+var text = "<html>\n<head>\n<title>The Rossoneri - Windows Media Player</title>\n";
+text += "<link rel='stylesheet' type='text/css' href='rossoneri.css'/>\n"; 
+text += "<link rel='shortcut icon' href='favicon.gif'/>\n</head>\n\n";
+text += "<body>\n<h1>The Rossoneri " + title + "</h1>\n";
+
+//var songname = "Buenos Aires";
+//var clipnum = "1";
+//var filename = "clips/BuenosAires_EPCLIP1.mp3";
+//text += writeWMPcode(songname, clipnum, filename);
+
+// INSERT SONGS HERE
+var songname = "Too Old To Die Young";
+text += writeWMPcode(songname, 1, "clips/TooOldToDieYoung_EPCLIP1.mp3");
+text += writeWMPcode(songname, 2, "clips/TooOldToDieYoung_EPCLIP2.mp3");
+text += "<hr/>";
+
+songname = "Walking After Love";
+text += writeWMPcode(songname, 1, "clips/WalkingAfterLove_EPCLIP1.mp3");
+text += writeWMPcode(songname, 2, "clips/WalkingAfterLove_EPCLIP2.mp3");
+text += "<hr/>";
+
+songname = "George White's Favourite";
+text += writeWMPcode(songname, 1, "clips/GeorgeWhite%27sFavourite_EPCLIP1.mp3");
+text += writeWMPcode(songname, 2, "clips/GeorgeWhite%27sFavourite_EPCLIP2.mp3");
+text += "<hr/>";
+
+songname = "Last Night I Cried";
+text += writeWMPcode(songname, 1, "clips/LastNightICried_EPCLIP1.mp3");
+text += writeWMPcode(songname, 2, "clips/LastNightICried_EPCLIP2.mp3");
+text += "<hr/>";
+
+songname = "On The Streets Of Buenos Aires";
+text += writeWMPcode(songname, 1, "clips/BuenosAires_EPCLIP1.mp3");
+text += writeWMPcode(songname, 2, "clips/BuenosAires_EPCLIP2.mp3");
+text += "<hr/>";
+
+songname = "Give It Up Again Tomorrow";
+text += writeWMPcode(songname, 1, "clips/GiveItUpAgainTomorrow_EPCLIP1.mp3");
+text += "<hr/>";
+
+
+// END OF POPUP HTML
+text += "&copy; 2005-2007, 2010 <a href='http://www.duckwhistle.org.uk'>Phil Reed</a>";
+text += "\n</body>\n</html>\n";
+
+windowprops = "scrollbars,left=50,top=50,width=500,height=600";
+wmp =window.open("", "wmp", windowprops);
+wmp.document.open();
+wmp.document.write(text);
+}
+//-->
+</script>
+
+</head>
+
+<body>
+
+<h1>Test page for sound clips and navigation</h1>
+
+<p>The following clips can be navigated in a swish way and work on different browsers!  Well, not yet.</p>
+
+<h2>IE Popup</h2>
+<p>
+If you are an Internet Explorer user, you can listen to a higher quality clip here.<br/>
+<object id="player1" width="250" height="65"
+        classid="clsid:6BF52A52-394A-11d3-b153-00C04F79FAA6">
+<!-- Couldn't get more than one clip in it! -->
+  <param id="player1url" name="URL" value="clips/BuenosAires_EPCLIP1.mp3"/>
+  <param name="autoStart" value="false"/>
+  <param name="playCount" value="1"/>Did not work!
+</object>
+</p>
+
+<!-- CANNOT CHANGE CLIP WITH JAVASCRIPT
+<p>So to change the clip in <em>player1</em>, click for <a href="javascript:;" onclick="document.all.player1url.value='clips/BuenosAires_EPCLIP2.mp3'">Buenos Aires Clip 2</a>.</p>
+-->
+<hr/>
+
+<h2>The Rossoneri EP - Windows Media Player</h2>
+
+<a href="javascript:;" onClick="popupWMP('EP clips');">Play EP clips using Windows Media Player (IE only)</a>
+
+<p></p>
+
+
+
+
+<hr/>
+<p align="center">
+<table border="0" cellpadding="10"><tr>
+<td><small>© 2005-2006 Phil Reed </small></td>
+
+<td><small><a href="#top">Top</a></small></td>
+<td><small><a href="photos-2006-2.html"> &lt; Prev</a></small><td>
+<td><small><a href="index.html">Home</a></small><td>
+<td><small><a href="fun.html">Next &gt; </a></small><td>
+<script language="JavaScript" type="text/javascript">
+<!--
+ var theDate = "";
+ theDate = document.lastModified;
+ document.write("<td><small>Last Updated: ");
+ document.write(theDate);
+ document.write(" </small></td>");
+ //-->
+</script>
+</tr></table>
+</p>
+
+</body>
+
+</html>

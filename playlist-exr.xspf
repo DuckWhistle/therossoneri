@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>The Rossoneri with EXR</title>
+  <trackList>
+    <track>
+      <location>clips/060606_MOTH_CLIP.mp3</location>
+	  <image>images/avatar64.gif</image>
+      <title>Man of the House</title>
+      <creator>trad., arr. The Rossoneri</creator>
+    </track>
+    <track>
+      <location>clips/060526_CD_CLIP.mp3</location>
+      <image>images/avatar64.gif</image>
+      <title>Star of the County Down</title>
+      <creator>trad., arr. The Rossoneri</creator>
+    </track>
+  </trackList>
+</playlist>
